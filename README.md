@@ -1,2 +1,2 @@
-# Simple-Employee-Management-system
-EMP using Python,SQL
+# Simple-Employee-Management-System
+EMS using Python, SQL
